@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import {COMMA, ENTER} from '@angular/cdk/keycodes';
 import {MatChipInputEvent} from '@angular/material/chips';
 import { AbstractControl, FormArray, FormControl } from '@angular/forms';
 
